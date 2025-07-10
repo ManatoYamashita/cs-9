@@ -1,5 +1,7 @@
 # Computer Simulation 9 - TCU Informatics
 
+![cs](https://github.com/user-attachments/assets/4fd456a1-5d62-493a-9dfb-7922f71b9efd)
+
 このプロジェクトは東京都市大学 メディア情報学部 情報システム学科のコンピュータシミュレーションの第9回の課題です。
 
 提出用レポートは[こちら](./cs-9.md)からご覧いただけます。
