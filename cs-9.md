@@ -71,7 +71,8 @@ housing.arffデータセットを用いて、住宅価格の予測精度を最�
 | 500      | 69.93   | 200/286       |
 
 ### グラフ（グラフを作成）
-※ X軸：木の本数、Y軸：精度(%)のグラフを作成してください
+
+<img width="549" alt="graph-breast-cancer" src="https://github.com/user-attachments/assets/ec708915-9a47-4ecb-bc73-170cca16f0e8" />
 
 ### 考察
 - 木の本数が1から10まで増加すると精度が大幅に向上しました
@@ -94,7 +95,8 @@ housing.arffデータセットを用いて、住宅価格の予測精度を最�
 | 500      | 3.2608  | 2.1555  | 0.9384   |
 
 ### グラフ（グラフを作成）
-※ X軸：木の本数、Y軸：RMSEのグラフを作成してください
+
+<img width="544" alt="graph-housing" src="https://github.com/user-attachments/assets/c49e5c9b-abf1-4704-a378-0d0f693d5aae" />
 
 ### 最高精度モデル（木の本数：500）の特徴量説明
 
