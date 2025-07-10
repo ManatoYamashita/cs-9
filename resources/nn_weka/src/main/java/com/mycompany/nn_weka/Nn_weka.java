@@ -51,10 +51,10 @@ public class Nn_weka {
         System.out.println();
 
         // パラメータの組み合わせを定義
-        double[] learningRates = {0.1, 0.3, 0.5, 0.7};
-        double[] momentums = {0.2, 0.4, 0.6, 0.8};
-        int[] trainingTimes = {50, 100, 200, 500};
-        String[] hiddenLayerConfigs = {"a", "5", "10", "15", "5,3", "10,5"};
+        double[] learningRates = {0.1, 0.3, 0.5};
+        double[] momentums = {0.2, 0.5, 0.8};
+        int[] trainingTimes = {100, 300, 500};
+        String[] hiddenLayerConfigs = {"a", "10", "20", "10,5"};
 
         List<ParameterResult> results = new ArrayList<>();
 
